@@ -60,6 +60,8 @@ import org.apache.hadoop.hbase.util.Bytes;
  * {@link #setMaxVersions(int) setMaxVersions}.
  * <p>
  * To add a filter, call {@link #setFilter(Filter) setFilter}.
+ * Todo with Hbase-1234
+ * 
  */
 @InterfaceAudience.Public
 @InterfaceStability.Stable
